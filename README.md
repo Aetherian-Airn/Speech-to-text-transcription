@@ -1,5 +1,3 @@
-Problem number 21,
-The problem statement is:-
 Speech to text transcription for Indian languages. The problem entails transcription in the native script. The languages of interest are Hindi, Indian English, Urdu, Bengali and Punjabi.
 
 We have created a website that is able to transcript these 5 languages from speech to text as per your convienence.
